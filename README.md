@@ -2,7 +2,7 @@
   <h1>About Me!</h1>
   <p>Selam ben Burak. Bundan 1.5 yıl önce başladığım pyhton serüvenine ara verip Javascript öğrenmeye başlamış bir yazılım öğrencisiyim. Öğrenimime C++ öğrenerek devam ediyorum.</p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fiobrum&show_icons=true&title_color=#ff0000&hide_border=true" width="%100" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiobrum&show_icons=true&hide_border=true" width="%100" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiobrum" width="%100" height="150px">
   <br><br>
   <h1>İletişim / Contact</h1>
