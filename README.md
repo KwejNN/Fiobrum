@@ -1,6 +1,6 @@
 <div align="center">
   <h1>About Me!</h1>
-  <p> I am  software student who took a break from the Pyhton adventure that I started 1.5 years ago and started learning Javascript in 2020. I continue my education by learning C ++.</p>
+  <p> I am a software student who took a break from the Pyhton adventure that I started 1.5 years ago and started learning Javascript in 2020. I continue my education by learning C ++.</p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=fiobrum&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiobrum&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
